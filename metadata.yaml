@@ -1,0 +1,35 @@
+_repo: Le-gaie-farandole_69422
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Simonetti, C.
+    gutenberg_agent_id: '55256'
+    url: http://www.gutenberg.org/2009/agents/55256
+creator:
+  author:
+    agent_name: Beltramelli, Antonio
+    birthdate: 1874
+    deathdate: 1930
+    gutenberg_agent_id: '45566'
+    url: http://www.gutenberg.org/2009/agents/45566
+    wikipedia: https://it.wikipedia.org/wiki/Antonio_Beltramelli
+description: ''
+gutenberg_issued: '2022-11-25'
+identifiers:
+  gutenberg: '69422'
+language: it
+pgterms:marc905: 20211102092313beltramell
+pgterms:marc906: '1908'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by the HathiTrust Digital Library)
+publication_note: 'Italy: Bemporad,1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories, Italian'
+- !lcc 'PZ'
+- GITenberg
+title: Le gaie farandole
+url: http://www.gutenberg.org/ebooks/69422
