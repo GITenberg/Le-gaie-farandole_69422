@@ -5,6 +5,9 @@ contributor:
     agent_name: Simonetti, C.
     gutenberg_agent_id: '55256'
     url: http://www.gutenberg.org/2009/agents/55256
+covers:
+- cover_type: archival
+  image_path: 69422-h/images/cover.jpg
 creator:
   author:
     agent_name: Beltramelli, Antonio
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45566
     wikipedia: https://it.wikipedia.org/wiki/Antonio_Beltramelli
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69422#Le-gaie-farandole
 gutenberg_issued: '2022-11-25'
 identifiers:
   gutenberg: '69422'
